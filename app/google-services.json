@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379948969439",
+    "firebase_url": "https://trackingsystem-f3aee.firebaseio.com",
+    "project_id": "trackingsystem-f3aee",
+    "storage_bucket": "trackingsystem-f3aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379948969439:android:5ecdd77d7a6b7278",
+        "android_client_info": {
+          "package_name": "com.developer.arsltech.trackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379948969439-ntqln43l4cqo49stq8nchrs2de4vmrnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.arsltech.trackingsystem",
+            "certificate_hash": "54f2463544dc66d8da55def197bdb5c73817bdf1"
+          }
+        },
+        {
+          "client_id": "379948969439-1n3m151k4pm8mnmdkqb8jkbjqovnh0ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSFbKAVJaY9ZMMC03jHeq5gDD3jGnJkr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379948969439-1n3m151k4pm8mnmdkqb8jkbjqovnh0ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
